@@ -2,14 +2,14 @@
 
 Introductory Machine Learning and Deep Learning Workshop
 
-![GitHub last commit](https://img.shields.io/github/last-commit/OpenSUTD/deeplearning-workshop.svg) ![GitHub](https://img.shields.io/github/license/OpenSUTD/deeplearning-workshop.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/OpenSUTD/machine-learning-workshop.svg) ![GitHub](https://img.shields.io/github/license/OpenSUTD/machine-learning-workshop.svg) ![](https://img.shields.io/github/repo-size/OpenSUTD/machine-learning-workshop.svg)
 
 ## Contents
 
 | Lab | Notebook Title                       | Link |
 | --- | ------------------------------------ | ---- |
-| 0A  | EDA on Titanic                       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/deeplearning-workshop/blob/master/labs/Lab%200A%20-%20EDA%20on%20Titanic.ipynb) |
-| 0B  | Hello GPU                            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](OpenSUTD/deeplearning-workshop/blob/master/labs/Lab%200B-%20Hello%20GPU.ipynb) |
+| 0A  | EDA on Titanic                       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/Lab%200A%20-%20EDA%20on%20Titanic.ipynb) |
+| 0B  | Hello GPU                            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](OpenSUTD/machine-learning-workshop/blob/master/labs/Lab%200B-%20Hello%20GPU.ipynb) |
 | X   | WIP                                  | WIP|
 
 Do note that you'll get Colab's usual warning about running an untrusted notebook. That is expected behavior for opening a third-party notebook on Colab. Just click past that.
