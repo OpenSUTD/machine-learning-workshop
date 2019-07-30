@@ -4,7 +4,12 @@ Introductory Machine Learning and Deep Learning Workshop
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/OpenSUTD/machine-learning-workshop.svg) ![GitHub](https://img.shields.io/github/license/OpenSUTD/machine-learning-workshop.svg) ![](https://img.shields.io/github/repo-size/OpenSUTD/machine-learning-workshop.svg)
 
-## Contents
+**Table of Contents**
+
+* [Notebooks](#notebooks)
+* [Other Materials](#other-materials)
+
+## Notebooks
 
 | Lab | Notebook Title                       | Link |
 | --- | ------------------------------------ | ---- |
