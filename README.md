@@ -4,19 +4,25 @@ Introductory Machine Learning and Deep Learning Workshop
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/OpenSUTD/machine-learning-workshop.svg) ![GitHub](https://img.shields.io/github/license/OpenSUTD/machine-learning-workshop.svg) ![](https://img.shields.io/github/repo-size/OpenSUTD/machine-learning-workshop.svg)
 
-## Contents
+**Table of Contents**
+
+* [Notebooks](#notebooks)
+* [Other Materials](#other-materials)
+
+## Notebooks
 
 | Lab | Notebook Title                       | Link |
 | --- | ------------------------------------ | ---- |
 | 1A  | EDA on Titanic                       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/Lab%201A%20-%20EDA%20on%20Titanic.ipynb) |
 | 1B  | Hello GPU                            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/Lab%201B%20-%20Hello%20GPU.ipynb) |
 | 1C  | MNIST                                | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/Lab%201C%20-%20MNIST.ipynb) |
-| 2A  | Image Classification                 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/Lab%202%20-%20Image%20Classification.ipynb) |
-| 2B  | Transfer Learning                    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/Lab%202%20-%20Image%20Classification.ipynb) |
+| 2A  | Image Classification (WIP)           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/Lab%202%20-%20Image%20Classification.ipynb) |
+| 2B  | Transfer Learning (WIP)              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/Lab%202%20-%20Image%20Classification.ipynb) |
 | 3A  | Loading and Visualising NLP Data     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/Lab%203A%20-%20Loading%20and%20Visualising%20NLP%20Data.ipynb) |
-| 3B  | Text Classification with CNN         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/) |
-| 3C  | Text Classification with RNN         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/) |
-| 3D  | Transfer Learning for NLP            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/) |
+| 3B  | Text Classification with CNN (WIP)   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/) |
+| 3C  | Text Classification with RNN (WIP)   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/) |
+| 3D  | Transfer Learning for NLP (WIP)      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/) |
+| XX  | WIP                                  |                                      |
 
 Do note that you'll get Colab's usual warning about running an untrusted notebook. That is expected behavior for opening a third-party notebook on Colab. Just click past that.
 
