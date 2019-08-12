@@ -20,9 +20,9 @@ Introductory Machine Learning and Deep Learning Workshop
 | 2A  | Image Classification                 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/Lab%202A%20-%20Image%20Classification.ipynb) |
 | 2B  | Transfer Learning                    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/Lab%202B%20-%20Transfer%20Learning.ipynb) |
 | 3A  | Loading and Visualising NLP Data     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/Lab%203A%20-%20Loading%20and%20Visualising%20NLP%20Data.ipynb) |
-| 3B  | Text Classification with CNN (WIP)   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/) |
-| 3C  | Text Classification with RNN (WIP)   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/) |
-| 3D  | Transfer Learning for NLP (WIP)      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/) |
+| 3B  | Text Classification with CNN         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/Lab%203B%20-%20CNN.ipynb) |
+| 3C  | Text Classification with RNN         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/Lab%203C%20-%20LSTM.ipynb) |
+| 3D  | Transfer Learning for NLP            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/Lab%203D%20-%20Transfer%20Learning%20in%20NLP.ipynb) |
 | XX  | WIP                                  |                                      |
 
 Do note that you'll get Colab's usual warning about running an untrusted notebook. That is expected behavior for opening a third-party notebook on Colab. Just click past that.
