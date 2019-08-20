@@ -24,7 +24,7 @@ Introductory Machine Learning and Deep Learning Workshop
 | 3C  | Text Classification with RNN         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/Lab%203C%20-%20LSTM.ipynb) |
 | 3D  | Transfer Learning for NLP            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/Lab%203D%20-%20Transfer%20Learning%20in%20NLP.ipynb) |
 | 4A  | Automatic Mixed Precision            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVIDIA/DeepLearningExamples/blob/master/TensorFlow/docs/amp/notebook_v1.14/auto_mixed_precision_demo_cifar10.ipynb) |
-| 4B  | Performance Optimizations            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVIDIA/DeepLearningExamples/blob/master/labs/Lab%204B%20-%20XLA%2BTF%20Data%2BAMP.ipynb) |
+| 4B  | Performance Optimizations            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/Lab%204B%20-%20XLA%2BTF%20Data%2BAMP.ipynb) |
 
 Do note that you'll get Colab's usual warning about running an untrusted notebook. That is expected behavior for opening a third-party notebook on Colab. Just click past that.
 
