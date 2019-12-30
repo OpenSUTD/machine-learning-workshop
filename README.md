@@ -14,6 +14,7 @@ Introductory Machine Learning and Deep Learning Workshop
 
 | Notebook Title                       | Link |
 | ------------------------------------ | ---- |
+| Linear Regression with SGD           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/linear_regression_sgd.ipynb) |
 | Hello MNIST                          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/hello_mnist.ipynb) |
 | Normalization & Initialization       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/normalization_initialization.ipynb) |
 | BatchNorm & Adaptive Optimizers      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/batchnorm_adaptive_opt.ipynb) |
@@ -33,7 +34,7 @@ Introductory Machine Learning and Deep Learning Workshop
 | Notebook Title                       | Link |
 | ------------------------------------ | ---- |
 | Loading and Visualising NLP Data     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/loading_vis_nlp.ipynb) |
-| Word Embeddings                      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
+| Word Embeddings                      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/word_embeddings.ipynb) |
 | Text Classification with CNN         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/text_classification_cnn.ipynb) |
 | Transfer Learning in NLP             | WIP |
 | Deep Dive into Self-Attention        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/exploring_attention.ipynb) |
