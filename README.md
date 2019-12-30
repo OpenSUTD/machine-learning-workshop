@@ -18,8 +18,9 @@ Introductory Machine Learning and Deep Learning Workshop
 | Hello MNIST                          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/hello_mnist.ipynb) |
 | Normalization & Initialization       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/normalization_initialization.ipynb) |
 | BatchNorm & Adaptive Optimizers      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/batchnorm_adaptive_opt.ipynb) |
+| DL as Representation Learning        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/learning_representations.ipynb) |
 | Overfitting & Regularization         | WIP |
-| DL as Representation Learning        | WIP |
+
 
 ### Computer Vision
 
@@ -36,16 +37,16 @@ Introductory Machine Learning and Deep Learning Workshop
 | Loading and Visualising NLP Data     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/loading_vis_nlp.ipynb) |
 | Word Embeddings                      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/word_embeddings.ipynb) |
 | Text Classification with CNN         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/text_classification_cnn.ipynb) |
-| Transfer Learning in NLP             | WIP |
 | Deep Dive into Self-Attention        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/exploring_attention.ipynb) |
+| Transfer Learning in NLP             | WIP |
 
 ### Hardware Accelerators
 
 | Notebook Title                       | Link |
 | ------------------------------------ | ---- |
 | Hello GPU                            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/hello_gpu.ipynb) |
-| TF Performance Optimizations         | WIP |
 | Neural Machine Translation on TPUs   |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/nmt_on_tpu.ipynb) |
+| TF Performance Optimizations         | WIP |
 
 ## Other Materials
 
