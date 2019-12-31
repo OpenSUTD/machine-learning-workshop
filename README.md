@@ -16,6 +16,7 @@ Introductory Machine Learning and Deep Learning Workshop
 | ------------------------------------ | ---- |
 | Linear Regression with SGD           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/linear_regression_sgd.ipynb) |
 | Hello MNIST                          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/hello_mnist.ipynb) |
+| Activation Functions                 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/activation_functions.ipynb) |
 | Normalization & Initialization       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/normalization_initialization.ipynb) |
 | BatchNorm & Adaptive Optimizers      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/batchnorm_adaptive_opt.ipynb) |
 | DL as Representation Learning        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/learning_representations.ipynb) |
@@ -30,6 +31,7 @@ Introductory Machine Learning and Deep Learning Workshop
 | Image Classification                 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/image_classification.ipynb) |
 | Transfer Learning                    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/transfer_learning.ipynb) |
 
+
 ### Natural Language
 
 | Notebook Title                       | Link |
@@ -40,6 +42,7 @@ Introductory Machine Learning and Deep Learning Workshop
 | Deep Dive into Self-Attention        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/exploring_attention.ipynb) |
 | Transfer Learning in NLP             | WIP |
 
+
 ### Hardware Accelerators
 
 | Notebook Title                       | Link |
@@ -47,6 +50,7 @@ Introductory Machine Learning and Deep Learning Workshop
 | Hello GPU                            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/hello_gpu.ipynb) |
 | Neural Machine Translation on TPUs   |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/nmt_on_tpu.ipynb) |
 | TF Performance Optimizations         | WIP |
+
 
 ## Other Materials
 
