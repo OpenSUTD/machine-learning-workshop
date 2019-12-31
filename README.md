@@ -39,6 +39,7 @@ Introductory Machine Learning and Deep Learning Workshop
 | Loading and Visualising NLP Data     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/loading_vis_nlp.ipynb) |
 | Word Embeddings                      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/word_embeddings.ipynb) |
 | Text Classification with CNN         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/text_classification_cnn.ipynb) |
+| Exploring RNNs                       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/exploring_rnn.ipynb) |
 | Deep Dive into Self-Attention        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/exploring_attention.ipynb) |
 | Transfer Learning in NLP             | WIP |
 
