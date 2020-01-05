@@ -15,12 +15,12 @@ Introductory Machine Learning and Deep Learning Workshop
 | Notebook Title                       | Link |
 | ------------------------------------ | ---- |
 | Linear Regression with SGD           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/linear_regression_sgd.ipynb) |
-| Hello MNIST                          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/hello_mnist.ipynb) |
 | Activation Functions                 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/activation_functions.ipynb) |
 | Normalization & Initialization       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/normalization_initialization.ipynb) |
 | BatchNorm & Adaptive Optimizers      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/batchnorm_adaptive_opt.ipynb) |
+| XOR Classifier                       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/classifier_xor.ipynb) |
+| Hello MNIST                          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/hello_mnist.ipynb) |
 | DL as Representation Learning        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/machine-learning-workshop/blob/master/labs/learning_representations.ipynb) |
-| Overfitting & Regularization         | WIP |
 
 
 ### Computer Vision
